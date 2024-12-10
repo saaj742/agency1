@@ -1,0 +1,178 @@
+
+/* Extra large devices  */
+@media (min-width: 1200px) {  }
+
+
+/* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) { }
+
+
+/* Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) {  }
+
+
+/* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) { }
+
+
+/* Extra small devices */
+@media (max-width: 575.98px) { }
+/* Extra large devices  */
+@media (min-width: 1200px) {  }
+
+/* Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) {  }
+
+/* Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) {  }
+   
+
+/* Extra small devices  */
+@media (max-width: 575.98px) {
+
+    .navbar-toggler{
+        font-size: 30px;
+        color: wheat;
+	
+    }
+    
+
+    .navbar-nav {
+        list-style: none;
+        background: #6A4DF4;
+        border-radius: 10px;
+        text-align: center;
+    }
+   
+    .headerContact a {
+        margin-top: 10px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .nav-item a:hover{
+        color: #9e9e9e;
+    }
+
+    .bannerText h1 {
+        font-size: 38px;
+    }
+    .banneroverly{
+        padding-top: 150px;
+        padding-bottom: 80px;
+    }
+
+    .bannerText p {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+
+    .banneroverly {
+        padding-top: 115px;
+        padding-bottom: 70px;
+    }
+    
+    .servicehead h3{
+        font-size: 30px;
+    }
+
+    #counter {
+        margin: 20px 0;
+    }
+
+    .counterleft {
+        text-align: center;
+    }
+
+    .counterRight  {
+        text-align: center;
+        display: block;
+        flex-direction: column;
+    }
+
+    .counterItem{
+        margin: 10px 0;
+    }
+
+    .serviceHeader p {
+        font-style: 15px;
+        margin: 0;
+    }
+
+    #picpart {
+        padding: 50px 0;
+    }
+
+    .picheader p {
+        font-size: 16px;
+        margin-bottom: 50px;
+    }
+
+    #agencpart{
+        margin: 50px;
+    }
+
+    .agencheader p {
+        font-size: 16px;
+        margin-bottom: 50px;
+        margin-top: 20px;
+        padding: 0;
+    }
+
+    .agencitem{
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .agencitem p {
+        font-size: 16px;
+        padding: 0;
+    }
+
+    #review {
+        margin-bottom: 50px;
+    }
+
+    #form {
+        padding: 50px 0;
+    }
+
+    .fleft{
+        text-align: center;
+    }
+
+    .fleft h1 {
+        font-size: 35px;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    .footerLogo{
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .footerLogo p {
+        font-size: 16px;
+        line-height: 26px;
+        color: #7B7B7B;
+        margin-top: 30px;
+        margin-right: 0;
+    }
+
+    .footerItem h4 {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .footerItem ul li a {
+        font-size: 12px;
+        line-height: 20px;
+    }
+ 
+}
+
+
+
+
+
